@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // Copyright (c) Mysten Labs, Inc.
 // SPDX-License-Identifier: Apache-2.0
 
@@ -549,5 +548,3 @@ module nft::nft_marketplace_tests {
         ts::end(scenario);
     }
 }
-=======
->>>>>>> branch 'main' of https://github.com/JophilGulane/my_simple_nft_marketplace.git
