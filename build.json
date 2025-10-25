@@ -1,0 +1,4 @@
+Failed to build Move modules: Error parsing package manifest
+
+Caused by:
+    Required field name 'package' not found.
